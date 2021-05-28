@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c26ed08c-8c2e-429a-9dfd-eb8d90ef46c2" name="Default Changelist" comment="hello">
+      <change afterPath="$PROJECT_DIR$/.idea/gestion_stock-20210527T145933Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/androidTest/java/com/example/android/inventorymanagement/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/DetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/EditActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/ProductCursorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/database/InventoryContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/database/InventoryDbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/java/com/example/android/inventorymanagement/database/InventoryProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/baseline_add_a_photo_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/baseline_add_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/baseline_add_photo_alternate_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/baseline_remove_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-hdpi/baseline_add_a_photo_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-hdpi/baseline_add_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-hdpi/baseline_add_photo_alternate_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-hdpi/baseline_remove_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-mdpi/baseline_add_a_photo_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-mdpi/baseline_add_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-mdpi/baseline_add_photo_alternate_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-mdpi/baseline_remove_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xhdpi/baseline_add_a_photo_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xhdpi/baseline_add_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xhdpi/baseline_add_photo_alternate_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xhdpi/baseline_remove_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxhdpi/baseline_add_a_photo_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxhdpi/baseline_add_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxhdpi/baseline_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxhdpi/baseline_remove_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxxhdpi/baseline_add_a_photo_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxxhdpi/baseline_add_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxxhdpi/baseline_add_photo_alternate_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable-xxxhdpi/baseline_remove_circle_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable/add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable/no_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable/no_products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/drawable/tick.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/layout/activity_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/layout/activity_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/menu/menu_activity_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/menu/menu_activity_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/menu/menu_activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/app/src/test/java/com/example/android/inventorymanagement/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion_stock/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t7mig1gj5TDb9WXd9GZjIhNYgm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26ed08c-8c2e-429a-9dfd-eb8d90ef46c2" name="Default Changelist" comment="" />
+      <created>1622128631046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622128631046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1622242745047">
+      <screen x="0" y="27" width="1848" height="1053" />
+    </state>
+    <state x="519" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1848.1053@0.27.1848.1053" timestamp="1622242745047" />
+  </component>
+</project>
